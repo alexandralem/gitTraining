@@ -1,4 +1,3 @@
 # Doing some damage
 
-Learning about conflicts 
-
+Adding some bio information 
