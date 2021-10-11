@@ -1,3 +1,4 @@
 # Doing some damage
 
-I made another change
+Learning about conflicts and how to resolve them.
+
